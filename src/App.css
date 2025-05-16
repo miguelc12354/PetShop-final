@@ -1,0 +1,32 @@
+.logo img{
+  height: 100px;
+}
+
+.menu{
+  padding: 0 20px !important;
+  border-left: 1px solid #666 !important;
+  text-transform: uppercase !important;
+}
+
+.menu:first-child{
+  border-left: none !important;
+}
+
+.menu a{
+  text-decoration: none;
+  color: #666;
+  font-size: 20px !important;
+}
+
+.menu a:hover{
+  opacity: .7;
+}
+
+.banner{
+  height: 600px;
+  width: 50px;
+}
+.banner img{
+  height: 600px;
+  width: 100%;
+}
